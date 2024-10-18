@@ -1,5 +1,4 @@
 Esta es una linea nueva
 
-Hola Mundo! <>
+Hola Mundo!
 
-Esta linea no la quiero
