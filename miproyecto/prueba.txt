@@ -1,7 +1,8 @@
-Esta es una linea nueva, pero igual tiene que quedar solo la palabra que cambio
+Esta es una hola linea nueva
 
 Hola Mundo!
 
+<<<<<<< HEAD
 Uh, caught up in the whip, Mary Jane all up in my head
 Upside down when I took the mask off
 Pull the mask back down, time to ride out right now
@@ -19,3 +20,28 @@ Ven aquí, I miss it, baby (Uh)
 Get liftin', I can tell you gifted, baby
 Necklace like Saint Nicholas, baby
 Wrap it up like Christmas, baby, uh
+=======
+Y lograron sin choque sangriento
+colocarte en un trono de amor,
+que de patria en enérgico acento
+dieron vida al ideal redentor.
+
+Es tu enseña pedazo de cielo
+en que prende una nube su albura,
+y ¡ay! de aquel que con ciega locura
+sus colores pretenda manchar.
+
+Pues tus hijos valientes y altivos,
+que veneran la paz cual presea,
+nunca esquivan la ruda pelea
+si defienden su tierra y su hogar.
+>>>>>>> main
+
+Sin ti soy una playa sin sol, una isla sin arena
+Sigo nadando entre pecе', buscando mi sirena
+Querertе sale caro, dime si vale la pena
+Y si es al lado tuyo que sea perpetua la condena
+Tengo un pasaje, pero sin regreso
+Apuesto todo a nosotro' aunque me quede sin un peso
+¿Y pa' qué me pregunta', si sabe' lo que pienso?
+Siempre que te va', el ambiente se pone tenso
